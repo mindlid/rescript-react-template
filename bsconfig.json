@@ -1,5 +1,6 @@
 {
-    "name": "rescript-webpack",
+    "name": "rse",
+    "namespace": false,
     "sources": [
         {
             "dir": "src",
@@ -17,7 +18,6 @@
         "react-jsx": 3
     },
     "bs-dependencies": [
-        "@rescript/react",
-        "rescript-webapi"
+        "@rescript/react"
     ]
 }
